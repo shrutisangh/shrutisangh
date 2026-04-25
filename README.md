@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=MSc%20Big%20Data%20Analytics%20%7C%20Python%20%7C%20Data%20Mining%20%7C%20ML&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20[Shruti%20Sanghavi]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=MSc%20Big%20Data%20Analytics%20%7C%20Python%20%7C%20Data%20Mining%20%7C%20ML&descAlignY=58&descSize=18" />
 
 </div>
 
@@ -57,7 +57,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 **Stack:** `Python` `Pandas` `mlxtend` `TransactionEncoder`  
 **Key Concepts:** `Apriori` `Frequent Itemsets` `Support` `Confidence` `Lift`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/association-rule-mining)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/association-rule-mining)
 
 ---
 
@@ -69,14 +69,14 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shrutisanghE&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -86,7 +86,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shrutisangh&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -116,7 +116,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=blue&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
