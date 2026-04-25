@@ -82,11 +82,8 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shrutisangh&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
