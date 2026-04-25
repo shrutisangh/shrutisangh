@@ -61,7 +61,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 ---
 
-### 🔬 [More Projects →](https://github.com/yourusername?tab=repositories)
+### 🔬 [More Projects →](https://github.com/shrutisanghtab=repositories)
 
 ---
 
