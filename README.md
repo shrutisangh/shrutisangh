@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20[Shruti%20Sanghavi]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=MSc%20Big%20Data%20Analytics%20%7C%20Python%20%7C%20Data%20Mining%20%7C%20ML&descAlignY=58&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=E9B872&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I%27m+Shruti+Sanghavi;MSc+Big+Data+Analytics" alt="Typing header" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1500&color=7DD3E8&center=true&vCenter=true&width=760&height=30&lines=Python+%7C+Data+Mining+%7C+Machine+Learning;Voyage+beyond+the+known+map." alt="Tagline" />
+
+<br/><br/>
+
+<img src="./dawn-treader-banner.svg" width="800" alt="The Dawn Treader sailing into a golden sunrise" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Data Science & Big Data Analytics** graduate student who turns raw, messy data into decisions that actually matter. I build end-to-end data pipelines, apply machine learning algorithms, and extract patterns that businesses can act on.
 
@@ -16,28 +22,28 @@ Currently pursuing my **MSc in Big Data Analytics**, I work on everything from m
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
+![Pandas](https://img.shields.io/badge/Pandas-1c3a4f?style=for-the-badge&logo=pandas&logoColor=e9b872)
+![NumPy](https://img.shields.io/badge/NumPy-1c3a4f?style=for-the-badge&logo=numpy&logoColor=e9b872)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1c3a4f?style=for-the-badge&logo=scikit-learn&logoColor=e9b872)
+![Jupyter](https://img.shields.io/badge/Jupyter-1c3a4f?style=for-the-badge&logo=jupyter&logoColor=e9b872)
+![SQL](https://img.shields.io/badge/SQL-1c3a4f?style=for-the-badge&logo=mysql&logoColor=e9b872)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
+![Seaborn](https://img.shields.io/badge/Seaborn-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
+![Git](https://img.shields.io/badge/Git-1c3a4f?style=for-the-badge&logo=git&logoColor=e9b872)
+![VS Code](https://img.shields.io/badge/VS%20Code-1c3a4f?style=for-the-badge&logo=visual-studio-code&logoColor=e9b872)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 [Data Aggregation in Data Mining](https://github.com/yourusername/data-aggregation)
+### [Data Aggregation in Data Mining](https://github.com/shrutisangh/data-aggregation)
 > *Time & Spatial Aggregation using Python & Pandas*
 
 Demonstrates how raw transactional sales data is summarized using **three aggregation strategies**: basic (sum, mean, count), time-based (monthly/quarterly/yearly), and spatial (region/city). Built as part of MSc Big Data Analytics coursework.
@@ -45,11 +51,11 @@ Demonstrates how raw transactional sales data is summarized using **three aggreg
 **Stack:** `Python` `Pandas` `Jupyter Notebook`  
 **Key Concepts:** `groupby()` `resample()` `agg()` `Time-Series` `Geospatial`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/data-aggregation)
+[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/data-aggregation)
 
 ---
 
-### 🛒 [Association Rule Mining — Apriori Algorithm](https://github.com/yourusername/association-rule-mining)
+### [Association Rule Mining — Apriori Algorithm](https://github.com/shrutisangh/association-rule-mining)
 > *Market Basket Analysis to uncover hidden purchase patterns*
 
 Implements the **Apriori Algorithm** on grocery transaction data to discover frequent itemsets and generate association rules (e.g., Bread → Butter). Outputs support, confidence, and lift metrics for business decision-making.
@@ -57,61 +63,62 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 **Stack:** `Python` `Pandas` `mlxtend` `TransactionEncoder`  
 **Key Concepts:** `Apriori` `Frequent Itemsets` `Support` `Confidence` `Lift`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/association-rule-mining)
+[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/association-rule-mining)
 
 ---
 
-### 🔬 [More Projects →](https://github.com/shrutisangh?tab=repositories)
+### [More Projects →](https://github.com/shrutisangh?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1f2e&title_color=e9b872&icon_color=3aa0b8&text_color=e8eef5" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&hide_border=true&langs_count=8&bg_color=0b1f2e&title_color=e9b872&text_color=e8eef5" alt="Top languages" />
+<br/>
+<img height="170" src="https://streak-stats.demolab.com?user=shrutisangh&background=0B1F2E&ring=E9B872&fire=3AA0B8&currStreakLabel=E9B872&currStreakNum=E8EEF5&sideLabels=3AA0B8&sideNums=E8EEF5&dates=86A0B5&border=1C3A4F" alt="GitHub streak" />
 
-</div>
+<br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="./dist/github-contribution-grid-snake-dark.svg" />
+</picture>
 
+<br/><br/>
 
-
----
-
-
-
-
-</div>
-
----
-
-## 📚 Currently Working On
-
-- 🧩 **Clustering Algorithms** — K-Means, DBSCAN on real-world datasets
-- 📉 **Predictive Analytics** — Regression & classification models for business forecasting
-- 🗂️ **Big Data Pipelines** — Exploring PySpark for large-scale data processing
-- 📖 Preparing for **data analyst / data scientist** roles
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
 ---
 
+## Currently Working On
+
+- **Clustering Algorithms** — K-Means, DBSCAN on real-world datasets
+- **Predictive Analytics** — Regression & classification models for business forecasting
+- **Big Data Pipelines** — Exploring PySpark for large-scale data processing
+- Preparing for **data analyst / data scientist** roles
+
+---
+
+## Let's Connect
+
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=blue&style=flat-square&label=Profile+Views)
+[![Gmail](https://img.shields.io/badge/Gmail-1c3a4f?style=for-the-badge&logo=gmail&logoColor=e9b872)](mailto:shrutisanghavi2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1c3a4f?style=for-the-badge&logo=github&logoColor=e9b872)](https://github.com/shrutisangh)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=e9b872&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f2e,50:1c3a4f,100:e9b872&height=130&section=footer&text=Voyage%20beyond%20the%20known%20map&fontColor=e8eef5&fontSize=20&fontAlignY=68&animation=fadeIn" alt="Footer" />
 
 </div>
