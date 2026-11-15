@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=E9B872&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I%27m+Shruti+Sanghavi;MSc+Big+Data+Analytics" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=D9773D&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I%27m+Shruti+Sanghavi;MSc+Big+Data+Analytics" alt="Typing header" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1500&color=7DD3E8&center=true&vCenter=true&width=760&height=30&lines=Python+%7C+Data+Mining+%7C+Machine+Learning;Voyage+beyond+the+known+map." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1500&color=3A8A9A&center=true&vCenter=true&width=760&height=30&lines=Python+%7C+Data+Mining+%7C+Machine+Learning;Voyage+beyond+the+known+map." alt="Tagline" />
 
 <br/><br/>
 
@@ -26,16 +26,16 @@ Currently pursuing my **MSc in Big Data Analytics**, I work on everything from m
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
-![Pandas](https://img.shields.io/badge/Pandas-1c3a4f?style=for-the-badge&logo=pandas&logoColor=e9b872)
-![NumPy](https://img.shields.io/badge/NumPy-1c3a4f?style=for-the-badge&logo=numpy&logoColor=e9b872)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1c3a4f?style=for-the-badge&logo=scikit-learn&logoColor=e9b872)
-![Jupyter](https://img.shields.io/badge/Jupyter-1c3a4f?style=for-the-badge&logo=jupyter&logoColor=e9b872)
-![SQL](https://img.shields.io/badge/SQL-1c3a4f?style=for-the-badge&logo=mysql&logoColor=e9b872)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
-![Seaborn](https://img.shields.io/badge/Seaborn-1c3a4f?style=for-the-badge&logo=python&logoColor=e9b872)
-![Git](https://img.shields.io/badge/Git-1c3a4f?style=for-the-badge&logo=git&logoColor=e9b872)
-![VS Code](https://img.shields.io/badge/VS%20Code-1c3a4f?style=for-the-badge&logo=visual-studio-code&logoColor=e9b872)
+![Python](https://img.shields.io/badge/Python-d9773d?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-d9773d?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-d9773d?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-d9773d?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-d9773d?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-d9773d?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-d9773d?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-d9773d?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-d9773d?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-d9773d?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -51,7 +51,7 @@ Demonstrates how raw transactional sales data is summarized using **three aggreg
 **Stack:** `Python` `Pandas` `Jupyter Notebook`  
 **Key Concepts:** `groupby()` `resample()` `agg()` `Time-Series` `Geospatial`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
+[![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
 
 ---
 
@@ -63,7 +63,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 **Stack:** `Python` `Pandas` `mlxtend` `TransactionEncoder`  
 **Key Concepts:** `Apriori` `Frequent Itemsets` `Support` `Confidence` `Lift`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/Association-mining)
+[![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Association-mining)
 
 ---
 
@@ -75,10 +75,10 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1f2e&title_color=e9b872&icon_color=3aa0b8&text_color=e8eef5" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&hide_border=true&langs_count=8&bg_color=0b1f2e&title_color=e9b872&text_color=e8eef5" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=fdf3e3&title_color=b5532a&icon_color=e08a3c&text_color=4a3426" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&hide_border=true&langs_count=8&bg_color=fdf3e3&title_color=b5532a&text_color=4a3426" alt="Top languages" />
 <br/>
-<img height="170" src="https://streak-stats.demolab.com?user=shrutisangh&background=0B1F2E&ring=E9B872&fire=3AA0B8&currStreakLabel=E9B872&currStreakNum=E8EEF5&sideLabels=3AA0B8&sideNums=E8EEF5&dates=86A0B5&border=1C3A4F" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=shrutisangh&background=FDF3E3&ring=E08A3C&fire=C2410C&currStreakLabel=B5532A&currStreakNum=4A3426&sideLabels=B5532A&sideNums=4A3426&dates=8A6E57&border=E8C9A0" alt="GitHub streak" />
 
 <br/><br/>
 
@@ -89,7 +89,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <br/><br/>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
@@ -108,8 +108,8 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-1c3a4f?style=for-the-badge&logo=gmail&logoColor=e9b872)](mailto:shrutisanghavi2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1c3a4f?style=for-the-badge&logo=github&logoColor=e9b872)](https://github.com/shrutisangh)
+[![Gmail](https://img.shields.io/badge/Gmail-d9773d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutisanghavi2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-d9773d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutisangh)
 
 </div>
 
@@ -117,8 +117,8 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=e9b872&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=d9773d&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f2e,50:1c3a4f,100:e9b872&height=130&section=footer&text=Voyage%20beyond%20the%20known%20map&fontColor=e8eef5&fontSize=20&fontAlignY=68&animation=fadeIn" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6c28b,50:e8927c,100:d9773d&height=130&section=footer&text=Voyage%20beyond%20the%20known%20map&fontColor=ffffff&fontSize=20&fontAlignY=68&animation=fadeIn" alt="Footer" />
 
 </div>

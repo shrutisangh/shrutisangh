@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: shrutisangh
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=e9b872&color_dots=0b1f2e,1c3a4f,2b7f95,3aa0b8,a7e3f0
+            dist/github-contribution-grid-snake-dark.svg?color_snake=2f7f8f&color_dots=fbe8c8,f6c987,ee9f5a,d9773d,b4532a
 
       - name: Commit changes
         run: |
