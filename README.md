@@ -43,7 +43,7 @@ Currently pursuing my **MSc in Big Data Analytics**, I work on everything from m
 
 ## Featured Projects
 
-### [Data Aggregation in Data Mining](https://github.com/shrutisangh/data-aggregation)
+### [Data Aggregation in Data Mining](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
 > *Time & Spatial Aggregation using Python & Pandas*
 
 Demonstrates how raw transactional sales data is summarized using **three aggregation strategies**: basic (sum, mean, count), time-based (monthly/quarterly/yearly), and spatial (region/city). Built as part of MSc Big Data Analytics coursework.
@@ -51,11 +51,11 @@ Demonstrates how raw transactional sales data is summarized using **three aggreg
 **Stack:** `Python` `Pandas` `Jupyter Notebook`  
 **Key Concepts:** `groupby()` `resample()` `agg()` `Time-Series` `Geospatial`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/data-aggregation)
+[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
 
 ---
 
-### [Association Rule Mining — Apriori Algorithm](https://github.com/shrutisangh/association-rule-mining)
+### [Association Rule Mining — Apriori Algorithm](https://github.com/shrutisangh/Association-mining)
 > *Market Basket Analysis to uncover hidden purchase patterns*
 
 Implements the **Apriori Algorithm** on grocery transaction data to discover frequent itemsets and generate association rules (e.g., Bread → Butter). Outputs support, confidence, and lift metrics for business decision-making.
@@ -63,7 +63,7 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 **Stack:** `Python` `Pandas` `mlxtend` `TransactionEncoder`  
 **Key Concepts:** `Apriori` `Frequent Itemsets` `Support` `Confidence` `Lift`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/association-rule-mining)
+[![Repo](https://img.shields.io/badge/View%20Repo-1c3a4f?style=flat-square&logo=github&logoColor=e9b872)](https://github.com/shrutisangh/Association-mining)
 
 ---
 
