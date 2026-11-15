@@ -4,15 +4,15 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1500&color=3A8A9A&center=true&vCenter=true&width=760&height=30&lines=Python+%7C+Data+Mining+%7C+Machine+Learning;Voyage+beyond+the+known+map." alt="Tagline" />
 
-<br/><br/>
+<br/>
 
 <img src="./dawn-treader-banner.svg" width="800" alt="The Dawn Treader sailing into a golden sunrise" />
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I'm a **Data Science & Big Data Analytics** graduate student who turns raw, messy data into decisions that actually matter. I build end-to-end data pipelines, apply machine learning algorithms, and extract patterns that businesses can act on.
 
@@ -20,9 +20,9 @@ Currently pursuing my **MSc in Big Data Analytics**, I work on everything from m
 
 > *"Data is not information, information is not knowledge, knowledge is not wisdom."* — I bridge all four.
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -39,9 +39,9 @@ Currently pursuing my **MSc in Big Data Analytics**, I work on everything from m
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 ### [Data Aggregation in Data Mining](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
 > *Time & Spatial Aggregation using Python & Pandas*
@@ -53,8 +53,6 @@ Demonstrates how raw transactional sales data is summarized using **three aggreg
 
 [![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Data_Aggregration-and-its-types)
 
----
-
 ### [Association Rule Mining — Apriori Algorithm](https://github.com/shrutisangh/Association-mining)
 > *Market Basket Analysis to uncover hidden purchase patterns*
 
@@ -65,60 +63,62 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 [![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Association-mining)
 
----
-
 ### [More Projects →](https://github.com/shrutisangh?tab=repositories)
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutisangh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=fdf3e3&title_color=b5532a&icon_color=e08a3c&text_color=4a3426" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutisangh&layout=compact&hide_border=true&langs_count=8&bg_color=fdf3e3&title_color=b5532a&text_color=4a3426" alt="Top languages" />
+<img src="./cards/stats.svg" height="190" alt="GitHub stats" />
+<img src="./cards/languages.svg" height="190" alt="Top languages" />
 <br/>
-<img height="170" src="https://streak-stats.demolab.com?user=shrutisangh&background=FDF3E3&ring=E08A3C&fire=C2410C&currStreakLabel=B5532A&currStreakNum=4A3426&sideLabels=B5532A&sideNums=4A3426&dates=8A6E57&border=E8C9A0" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=shrutisangh&background=FDF3E3&ring=E08A3C&fire=C2410C&currStreakLabel=B5532A&currStreakNum=4A3426&sideLabels=B5532A&sideNums=4A3426&dates=8A6E57&border=E8C9A0&v=2" alt="GitHub streak" />
 
-<br/><br/>
+</div>
+
+<img src="./divider.svg" width="100%" alt="" />
+
+<h2 align="center">Contribution Journey</h2>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
   <img alt="Contribution snake" src="./dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br/><br/>
+<br/>
 
 <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## Currently Working On
+<h2 align="center">Currently Working On</h2>
 
 - **Clustering Algorithms** — K-Means, DBSCAN on real-world datasets
 - **Predictive Analytics** — Regression & classification models for business forecasting
 - **Big Data Pipelines** — Exploring PySpark for large-scale data processing
 - Preparing for **data analyst / data scientist** roles
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## Let's Connect
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-d9773d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutisanghavi2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-d9773d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutisangh)
 
-</div>
+<br/><br/>
 
----
+<img src="./footer.svg" width="800" alt="Voyage beyond the known map" />
 
-<div align="center">
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shrutisangh&color=d9773d&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6c28b,50:e8927c,100:d9773d&height=130&section=footer&text=Voyage%20beyond%20the%20known%20map&fontColor=ffffff&fontSize=20&fontAlignY=68&animation=fadeIn" alt="Footer" />
 
 </div>

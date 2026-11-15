@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="800" height="28" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f6c28b" stop-opacity="0"/><stop offset=".3" stop-color="#e8927c"/><stop offset=".5" stop-color="#d9773d"/><stop offset=".7" stop-color="#3a8a9a"/><stop offset="1" stop-color="#3a8a9a" stop-opacity="0"/></linearGradient>
+<radialGradient id="s"><stop offset="0" stop-color="#ffe2a8" stop-opacity=".9"/><stop offset="1" stop-color="#ffe2a8" stop-opacity="0"/></radialGradient></defs>
+<path d="M0 14q20 -8 40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/>
+<circle cx="400" cy="14" r="12" fill="url(#s)"><animate attributeName="r" values="9;14;9" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="400" cy="14" r="4" fill="#e9b872"/>
+</svg>

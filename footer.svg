@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150" role="img" aria-label="Voyage beyond the known map">
+<defs>
+<linearGradient id="k1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6c28b"/><stop offset="1" stop-color="#fde6b8"/></linearGradient>
+<linearGradient id="k2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8927c"/><stop offset="1" stop-color="#d9773d"/></linearGradient>
+</defs>
+<rect width="800" height="150" rx="12" fill="url(#k1)"/>
+<circle cx="400" cy="104" r="46" fill="#fff4d6" opacity=".7"><animate attributeName="r" values="42;52;42" dur="6s" repeatCount="indefinite"/></circle>
+<rect y="104" width="800" height="46" fill="url(#k2)"/>
+<text x="400" y="62" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#3b2a20">Voyage beyond the known map.</text>
+<g fill="#3b2a20"><g><animateTransform attributeName="transform" type="translate" from="-60 0" to="860 0" dur="40s" repeatCount="indefinite"/><path d="M0 104h26l-4 6h-18z"/><rect x="12" y="86" width="1.6" height="18"/><path d="M13.6 88q8 6 8 14h-8z" fill="#fff1d6"/></g></g>
+<path d="M0 124q20 -5 40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0" fill="none" stroke="#fff1d6" stroke-width="1.4" opacity=".55"/>
+<path d="M0 138q20 -5 40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0t40 0" fill="none" stroke="#fff1d6" stroke-width="1.4" opacity=".4"/>
+</svg>
