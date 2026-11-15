@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#fdf3e3" stroke="#e8c9a0"/>
+<text x="24" y="36" font-size="18" font-weight="700" fill="#b5532a">Most Used Languages</text>
+<text x="24" y="70" font-size="13" fill="#4a3426">Jupyter Notebook</text>
+<rect x="150" y="60" width="200" height="10" rx="5" fill="#f0dcc0"/>
+<rect x="150" y="60" width="200" height="10" rx="5" fill="#d9773d"/>
+<text x="396" y="70" font-size="13" text-anchor="end" fill="#4a3426">99.8%</text>
+<text x="24" y="94" font-size="13" fill="#4a3426">HTML</text>
+<rect x="150" y="84" width="200" height="10" rx="5" fill="#f0dcc0"/>
+<rect x="150" y="84" width="6" height="10" rx="5" fill="#e8927c"/>
+<text x="396" y="94" font-size="13" text-anchor="end" fill="#4a3426">0.2%</text>
+</svg>

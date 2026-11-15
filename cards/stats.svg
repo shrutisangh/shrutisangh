@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#fdf3e3" stroke="#e8c9a0"/>
+<text x="24" y="36" font-size="18" font-weight="700" fill="#b5532a">Shruti Sanghavi's GitHub Stats</text>
+<circle cx="30" cy="66" r="3.5" fill="#e08a3c"/>
+<text x="42" y="70" font-size="14" fill="#4a3426">Contributions (last year)</text>
+<text x="396" y="70" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">24</text>
+<circle cx="30" cy="86" r="3.5" fill="#e08a3c"/>
+<text x="42" y="90" font-size="14" fill="#4a3426">Commits</text>
+<text x="396" y="90" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">19</text>
+<circle cx="30" cy="106" r="3.5" fill="#e08a3c"/>
+<text x="42" y="110" font-size="14" fill="#4a3426">Pull requests</text>
+<text x="396" y="110" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">0</text>
+<circle cx="30" cy="126" r="3.5" fill="#e08a3c"/>
+<text x="42" y="130" font-size="14" fill="#4a3426">Issues</text>
+<text x="396" y="130" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">1</text>
+<circle cx="30" cy="146" r="3.5" fill="#e08a3c"/>
+<text x="42" y="150" font-size="14" fill="#4a3426">Public repositories</text>
+<text x="396" y="150" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">5</text>
+<circle cx="30" cy="166" r="3.5" fill="#e08a3c"/>
+<text x="42" y="170" font-size="14" fill="#4a3426">Stars earned</text>
+<text x="396" y="170" font-size="14" font-weight="700" text-anchor="end" fill="#4a3426">0</text>
+</svg>
