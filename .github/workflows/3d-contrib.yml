@@ -3,6 +3,10 @@ name: Generate 3D Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *"   # daily at midnight UTC
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/3d-contrib.yml"
   workflow_dispatch:
 
 permissions:
