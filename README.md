@@ -63,6 +63,16 @@ Implements the **Apriori Algorithm** on grocery transaction data to discover fre
 
 [![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Association-mining)
 
+### [Bioinformatics — Sequence Analysis Journal](https://github.com/shrutisangh/Bioinformatics)
+> *Biological databases, sequence alignment, similarity search and protein analysis*
+
+A collection of seven bioinformatics exercises from my MSc, each in its own folder with aim, observations, results, discussion and viva notes: literature search (PubMed, Google Scholar), nucleotide and protein databases (GenBank, RefSeq, UniProt), pairwise alignment (EMBOSS Needle and Water), BLAST and FASTA searching, multiple sequence alignment (Clustal Omega, Kalign) and an integrated analysis of human **p53** (domains, PDB 2OCJ structure, KEGG pathway, phylogenetic tree).
+
+**Stack:** `NCBI` `UniProt` `EMBOSS` `BLAST` `Clustal Omega` `Kalign` `PyMOL` `Linux`  
+**Key Concepts:** `Sequence Alignment` `BLAST` `Multiple Sequence Alignment` `Protein Structure` `Phylogenetics`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-d9773d?style=flat-square&logo=github&logoColor=white)](https://github.com/shrutisangh/Bioinformatics)
+
 ### [More Projects →](https://github.com/shrutisangh?tab=repositories)
 
 <img src="./divider.svg" width="100%" alt="" />
